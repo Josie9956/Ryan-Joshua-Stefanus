@@ -1,0 +1,8 @@
+{
+  "name": "Formulir & Rekap Data Kontak",
+  "description": "Aplikasi pengisian data lengkap dan nomor telepon dengan validasi operator, chat WhatsApp instan, ekspor CSV/Excel, serta manajemen data kontak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
